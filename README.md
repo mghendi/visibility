@@ -1,4 +1,3 @@
-# Using Tensorflow To Predict the Weather in Images
+# Using Tensorflow for Weather in Image Recognition
 
-A Keras sequential model retrained to classify the weather in an outdoor scene taken using a Raspberry Pi camera.
-
+Recognising the weather in an outdoor scene from Pi Camera images using Convolutional Neural Networks.
