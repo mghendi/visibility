@@ -1,4 +1,4 @@
-# Using Tensorflow for Smog in Image Recognition
+# Using Tensorflow for Weather Recognition
 
 Recognising the weather in an outdoor scene from Pi Camera images using Convolutional Neural Networks.
 
